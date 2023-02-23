@@ -10,7 +10,7 @@ class Queue<T>{
          return  this.container.shift();
     }
 
-    sixe():number{
+    size():number{
        return  this.container.length
     }
 }
