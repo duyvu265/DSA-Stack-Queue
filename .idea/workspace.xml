@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c689bcdc-c214-4c1e-9073-690cfa722106" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TH2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MAP_anh_TREE/TH1.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract Class &amp; Interface/TH1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract Class &amp; Interface/TH1.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Access modifier, static method, static property/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Access modifier, static method, static property/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_VN/BAI_1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_VN/BAI_1.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clean Code &amp; Refactoring/TH1_Refactoring - tách biếnAssignment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Clean Code &amp; Refactoring/TH1_Refactoring - tách biếnAssignment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KE_THUA/TH1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../KE_THUA/TH1.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lớp và đối tượng/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lớp và đối tượng/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lớp và đối tượng/TH1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Lớp và đối tượng/TH1.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lớp và đối tượng/TH2.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Lớp và đối tượng/TH2.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tổng quan về ES6/Khai_bao_gia_tri_mac_dinh.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Tổng quan về ES6/Khai_bao_gia_tri_mac_dinh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@types/node/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/buffer.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@types/node/buffer.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@types/node/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@types/node/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/buffer.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@types/node/ts4.8/buffer.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/typescript-error-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/typescript-error-demo" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2M7TNdKqxsG2KqchyVj1DIpXs1F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/MD-2/DSA_ Stack, Queue",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c689bcdc-c214-4c1e-9073-690cfa722106" name="Changes" comment="" />
+      <created>1677117581066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677117581066</updated>
+      <workItem from="1677117582214" duration="332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
